@@ -1,1 +1,2 @@
-# collaboration
+풀 리퀘스트를 연습해 보세요.
+<li>자신의 깃허브 아이디</li> 한 줄을 추가하여 Pull Request 보내주세요.
